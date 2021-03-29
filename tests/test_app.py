@@ -43,8 +43,7 @@ def test_json(app, client):
         "colors": {
             "b": "blue",
             "g": "green",
-            "r": "red",
-            "w": "white"
+            "r": "red"
         },
         "languages": {
             "en": "English",
